@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FragmentStateSample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="sample_instructions">Push the button a few times, switch tabs, then come back!</string>
+    <string name="button_text">Click me!</string>
+    <plurals name="count_text">
+        <item quantity="one">%1$s click</item>
+        <item quantity="other">%1$s clicks</item>
+    </plurals>
+    <string name="save_state">Save state</string>
+    <string name="keep_fragments">Keep fragments in memory</string>
+    <string name="dev_option">Try this as well:
+        \n 1. Enable Android\'s "don\'t keep activities" developer option
+        \n 2. Click the button a few times on the "home" tab
+        \n 3. Switch to a different tab
+        \n 4. Leave the app
+        \n 5. Re-open the app and return to "home"
+    </string>
+</resources>
